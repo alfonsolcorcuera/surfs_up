@@ -1,10 +1,8 @@
 # Surf's Up 
 
-
 ## Overview the Analysis
 
 We are assiting W.Avy to conduct a temperature and precipitation analysis in the months of June and December in Oahu, in order to determine if the surf and ice cream shop business is sustainable.
-
 
 ## Results
 
@@ -18,7 +16,6 @@ Below you will find outputs of the summary statistics produced in the jupyter no
 ![](June_Temps.png)
 
 ![](December_Temps.png)
-
 
 ## Summary
 
