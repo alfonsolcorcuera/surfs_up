@@ -16,7 +16,7 @@ Below you will find outputs of the summary statistics produced in the jupyter no
 
 ![](June_Temps.png)
 
-![](December_Temps.png)
+![](December_Temps.PNG)
 
 
 ## Summary
