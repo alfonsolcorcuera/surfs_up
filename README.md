@@ -21,7 +21,7 @@ Below you will find outputs of the summary statistics produced in the jupyter no
 
 ## Summary
 
-Based on the temperature analysis only, both June and December seem to be good months to open the ice cream shop because the average temperature is stable at around 73 degrees. Ig this trend remains in the remaining months, its reasonable to open during all the year.
+Based on the temperature analysis only, both June and December seem to be good months to open the ice cream shop because the average temperature is stable at around 73 degrees. IF this trend remains in the remaining months, its reasonable to open during all the year.
 
 However, only analyzing temperature is insufficient, we also need to analyze precipitation level which affects both the ice cream and surf shop businesses. Below you will find two additional queries that give us more prespective on the weather data, specifically precipitaion.
 
